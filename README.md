@@ -1,4 +1,4 @@
-# JusticeInOurHans.github.io
+# JusticeInOurHands.github.io
 Justice In Our Hands is a digital anthology of writing and art from people who have been somehow involved in Virginia's Juvenile Justice System, whether they be parents, teachers, probation officers, court officials, or people who have been in the system themselves. I believe in the power of human connection, and that everyone deserves to be heard. My goal is to create a clearer picture of the _real people_ who have encountered this corner of the world, and to reduce the stigma that usually comes into play when viewing this population as a whole. These are real individuals with different experiences, who also have some shared experiences among them. 
 
 ## Submit to the Anthology
