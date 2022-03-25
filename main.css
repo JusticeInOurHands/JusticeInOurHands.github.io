@@ -214,3 +214,53 @@ tbody td[colspan='3'] {
   background: #B92020;
   color: #EEE;
 }
+
+#index-links {
+  width: 100%;
+}
+
+#index-links td {
+  width: 50%;
+  text-align: center;
+  vertical-align: center;
+}
+
+#index-links td a {
+  vertical-align: center;
+  color: #EEE;
+  background: #900;
+  text-decoration: none;
+  border-radius: 15px;
+  display: inline-block;
+  width: 90%;
+  padding: 40px 0px 40px 0px;
+  font-size: 1.5em;
+  box-shadow: 0px 5px 10px #999;
+}
+
+#index-links td a:hover {
+  background: #B92020;
+}
+
+#index-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 60px;
+  border-top: 4px solid #900;
+  border-bottom: 4px solid #900;
+}
+
+#index-head {
+  background-color: #B92020;
+  color: #EEE;
+  text-align: center;
+  vertical-align: center;
+  height: 4em;
+  border-top:
+}
+
+#index-head h2 {
+  font-family: 'Permanent Marker', cursive;
+  font-weight: lighter;
+  line-height: 2em; 
+}
