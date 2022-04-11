@@ -262,5 +262,10 @@ tbody td[colspan='3'] {
 #index-head h2 {
   font-family: 'Permanent Marker', cursive;
   font-weight: lighter;
-  line-height: 2em; 
+  line-height: 2em;
+}
+
+#me {
+  float: left;
+  margin: 0px 15px 15px 0px; 
 }
